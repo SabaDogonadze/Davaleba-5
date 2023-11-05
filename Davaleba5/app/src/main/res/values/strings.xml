@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Davaleba#5</string>
+    <string name="log_in">LOG IN</string>
+    <string name="register">REGISTER</string>
+    <string name="photo">photo</string>
+    <string name="register2">Register</string>
+    <string name="gmail">Gmail</string>
+    <string name="password">Password</string>
+    <string name="next">NEXT</string>
+    <string name="log_in2">Log in</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="username">Username</string>
+    <string name="signup_text">By signing up, you agree to Photo’s <u>Terms of Service</u> and <u>Privacy Policy</u>.</string>
+</resources>
